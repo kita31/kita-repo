@@ -1,0 +1,2 @@
+print (Goodbuy wold)
+print (Goodbuy everybody) 
