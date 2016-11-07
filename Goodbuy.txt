@@ -1,2 +1,3 @@
 print (Goodbuy wold)
-print (Goodbuy everybody) 
+print (Goodbuy everybody)
+print (Goodbuy my love goodbuy) 
